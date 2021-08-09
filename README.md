@@ -2,11 +2,11 @@
 
 Bachelor Thesis : "Effectivity of message brokers in communication between microservices"
 
-ABSTRACT
+ABSTRACT <br />
 EFFECTIVITY OF MESSAGE BROKERS IN COMMUNICATION
-BETWEEN MICROSERVICES
-Pjetri, Gerild
-Ba.Sc., Department of Computer Engineering
+BETWEEN MICROSERVICES <br />
+Pjetri, Gerild <br />
+Ba.Sc., Department of Computer Engineering <br />
 Supervisor: Prof.Dr. Dimitri A.Karras
 
 
